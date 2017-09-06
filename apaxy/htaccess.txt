@@ -23,7 +23,7 @@
 
 	AddIcon theme/icons/blank.png ^^BLANKICON^^
 	AddIcon theme/icons/folder.png ^^DIRECTORY^^
-	AddIcon theme/icons/folder-home.png ..
+	AddIcon theme/icons/folder-parent-old.png ..
 	
 	AddIconByType (TXT,theme/icons/text.png) text/*
 	AddIconByType (IMG,theme/icons/image.png) image/*
